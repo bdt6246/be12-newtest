@@ -6,3 +6,12 @@
 ## 🖥️ 프로젝트 선정 이유
 김혜정이 추가함
 
+## 🚥운영 환경
+
+* Ubuntu 24.04 Server
+* k8s
+* Spring & Springboot
+* blah blah blah
+
+황경윤이 추가함
+
