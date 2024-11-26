@@ -15,3 +15,6 @@ yeon7485가 추가함
 * blah blah blah
 
 황경윤이 추가함
+
+
+![usecase](usecase.png)
